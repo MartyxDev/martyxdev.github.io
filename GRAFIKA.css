@@ -151,17 +151,11 @@
   .u-section-1 .u-sheet-1 {
     min-height: 1888px;
   }
-
-  .u-section-1 .u-custom-html-1 {
-    margin-right: 29px;
-    margin-bottom: 60px;
-    margin-left: -29px;
-  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1856px;
+    min-height: 1794px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -171,17 +165,7 @@
   }
 
   .u-section-1 .u-text-3 {
-    width: auto;
-    margin-top: -193px;
     margin-left: 16px;
     margin-right: 16px;
-  }
-
-  .u-section-1 .u-countdown-1 {
-    margin-top: 40px;
-  }
-
-  .u-section-1 .u-custom-html-1 {
-    margin: 67px 30px 52px -30px;
   }
 }
