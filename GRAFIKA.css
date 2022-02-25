@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 1578px;
+  min-height: 1360px;
 }
 
 .u-section-1 .u-text-1 {
@@ -14,120 +14,9 @@
   margin: 9px 67px 0;
 }
 
-.u-section-1 .u-shape-1 {
-  width: 515px;
-  height: 202px;
-  margin: 21px auto 0;
-}
-
-.u-section-1 .u-text-3 {
-  font-family: Rajdhani;
-  margin: -202px auto 0;
-}
-
-.u-section-1 .u-countdown-1 {
-  margin: 49px auto 0;
-}
-
-.u-section-1 .u-countdown-counter-1 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-1 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-1 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-2 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-2 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-2 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-3 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-3 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-3 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-4 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-4 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-4 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-5 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-5 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
-.u-section-1 .u-countdown-separator-5 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-counter-6 {
-  font-weight: 700;
-  font-size: 2.25rem;
-  line-height: 1;
-}
-
-.u-section-1 .u-countdown-label-6 {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-}
-
 .u-section-1 .u-custom-html-1 {
-  margin-top: 61px;
-  margin-bottom: 38px;
+  margin-top: 21px;
+  margin-bottom: 31px;
   min-height: 1007px;
 }
 
@@ -153,9 +42,7 @@
   }
 
   .u-section-1 .u-custom-html-1 {
-    margin-right: 29px;
-    margin-bottom: 60px;
-    margin-left: -29px;
+    margin: 0 29px 60px -29px;
   }
 }
 
@@ -164,24 +51,9 @@
     min-height: 1856px;
   }
 
-  .u-section-1 .u-shape-1 {
-    width: 340px;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-3 {
-    width: auto;
-    margin-top: -193px;
-    margin-left: 16px;
-    margin-right: 16px;
-  }
-
-  .u-section-1 .u-countdown-1 {
-    margin-top: 40px;
-  }
-
   .u-section-1 .u-custom-html-1 {
-    margin: 67px 30px 52px -30px;
+    margin-right: 30px;
+    margin-bottom: 52px;
+    margin-left: -30px;
   }
 }
